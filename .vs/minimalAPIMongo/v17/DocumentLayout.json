@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|c:\\users\\56262631879\\desktop\\mongo\\minimalapimongo\\minimalapimongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87C1E7B8-9141-4F00-BAD2-FEC468D24E85}|minimalAPIMongo\\minimalAPIMongo.csproj|solutionrelative:minimalapimongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\Order.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Domains\\Order.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\Order.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Domains\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:53:46.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:21:54.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\Product.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Domains\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:09:37.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\User.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Domains\\User.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\User.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Domains\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:00:18.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\Client.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Domains\\Client.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Domains\\Client.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Domains\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:14:57.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:14:41.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:58:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:42:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Services\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Services\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Services\\MongoDBService.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Services\\MongoDBService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:43:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "minimalAPIMongo\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:11:11.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Program.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\Program.cs",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\Program.cs",
+              "RelativeToolTip": "minimalAPIMongo\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:39:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\appsettings.json",
+              "RelativeDocumentMoniker": "minimalAPIMongo\\appsettings.json",
+              "ToolTip": "C:\\Users\\56262631879\\Desktop\\Mongo\\minimalAPIMongo\\minimalAPIMongo\\appsettings.json",
+              "RelativeToolTip": "minimalAPIMongo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T17:35:12.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
